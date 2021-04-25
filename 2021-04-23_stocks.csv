@@ -1,76 +1,376 @@
 Symbol,Name,Frequency
-MVIS,MicroVision Inc. Common Stock,64
-PLTR,Palantir Technologies Inc. Class A Common Stock,48
-COIN,Coinbase Inc. Common Stock,28
-TSLA,Tesla Inc. Common Stock,18
-AAPL,Apple Inc. Common Stock,14
-OCGN,Ocugen Inc. Common Stock,13
-SKLZ,Skillz Inc. Class A Common Stock,8
-AMD,Advanced Micro Devices Inc. Common Stock,6
-AMC,AMC Entertainment Holdings Inc. Class A Common Stock,5
-BB,BlackBerry Limited Common Stock,5
-VIAC,ViacomCBS Inc. Class B Common Stock,4
-INTC,Intel Corporation Common Stock,4
-NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,4
-CLOV,Clover Health Investments Corp. Class A Common Stock,3
-IRS,IRSA Inversiones Y Representaciones S.A. Common Stock,3
-SNAP,Snap Inc. Class A Common Stock,3
-T,AT&T Inc.,3
-RIOT,Riot Blockchain Inc.  Common Stock,3
-J,Jacobs Engineering Group Inc. Common Stock,2
-PDT,John Hancock Premium Dividend Fund,2
-NFLX,Netflix Inc. Common Stock,2
-NKLA,Nikola Corporation Common Stock,2
-PM,Philip Morris International Inc Common Stock,2
-GME,GameStop Corporation Common Stock,2
-GF,New Germany Fund Inc. (The) Common Stock,2
-RIDE,Lordstown Motors Corp. Class A Common Stock,2
-FB,Facebook Inc. Class A Common Stock,2
-FORD,Forward Industries Inc. Common Stock,2
+MVIS,MicroVision Inc. Common Stock,527
+GME,GameStop Corporation Common Stock,324
+OCGN,Ocugen Inc. Common Stock,234
+AMD,Advanced Micro Devices Inc. Common Stock,207
+PLTR,Palantir Technologies Inc. Class A Common Stock,168
+COIN,Coinbase Inc. Common Stock,147
+TSLA,Tesla Inc. Common Stock,137
+AAPL,Apple Inc. Common Stock,104
+INTC,Intel Corporation Common Stock,93
+CLOV,Clover Health Investments Corp. Class A Common Stock,69
+RIOT,Riot Blockchain Inc.  Common Stock,64
+SNAP,Snap Inc. Class A Common Stock,58
+SKLZ,Skillz Inc. Class A Common Stock,53
+NIO,NIO Inc. American depositary shares each  representing one Class A ordinary share,51
+AMC,AMC Entertainment Holdings Inc. Class A Common Stock,50
+MARA,Marathon Patent Group Inc. Common Stock,47
+ATH,Athene Holding Ltd. Class A Common Shares,46
+EOD,Wells Fargo Global Dividend Opportunity Fund,41
+C,Citigroup Inc. Common Stock,40
+F,Ford Motor Company Common Stock,38
+NKLA,Nikola Corporation Common Stock,37
+U,Unity Software Inc. Common Stock,37
+DTE,DTE Energy Company Common Stock,33
+VIAC,ViacomCBS Inc. Class B Common Stock,31
+B,Barnes Group Inc. Common Stock,29
+NFLX,Netflix Inc. Common Stock,27
+BB,BlackBerry Limited Common Stock,27
+T,AT&T Inc.,23
+AMZN,Amazon.com Inc. Common Stock,22
+SQ,Square Inc. Class A Common Stock,21
+PM,Philip Morris International Inc Common Stock,20
+IRS,IRSA Inversiones Y Representaciones S.A. Common Stock,20
+AM,Antero Midstream Corporation Common Stock,18
+G,Genpact Limited Common Stock,18
+NET,Cloudflare Inc. Class A Common Stock,18
+TA,TravelCenters of America Inc. Common Stock,18
+EV,Eaton Vance Corporation Common Stock,17
+DKNG,DraftKings Inc. Class A Common Stock,17
+TSM,Taiwan Semiconductor Manufacturing Company Ltd.,16
+SP,SP Plus Corporation Common Stock,15
+TD,Toronto Dominion Bank (The) Common Stock,15
+USA,Liberty All-Star Equity Fund Common Stock,15
+D,Dominion Energy Inc. Common Stock,15
+PTON,Peloton Interactive Inc. Class A Common Stock,15
+PLUG,Plug Power Inc. Common Stock,15
+CC,Chemours Company (The) Common Stock,14
+MSFT,Microsoft Corporation Common Stock,14
+ASO,Academy Sports and Outdoors Inc. Common Stock,13
+IT,Gartner Inc. Common Stock,13
+RKT,Rocket Companies Inc. Class A Common Stock,13
+NOK,Nokia Corporation Sponsored American Depositary Shares,12
+IMO,Imperial Oil Limited Common Stock,12
+PT,Pintec Technology Holdings Limited American Depositary Shares,12
+TV,Grupo Televisa S.A. Common Stock,12
+X,United States Steel Corporation Common Stock,12
+APHA,Aphria Inc. Common Shares,12
+NVDA,NVIDIA Corporation Common Stock,12
+BABA,Alibaba Group Holding Limited American Depositary Shares each representing eight Ordinary share,11
+UWMC,UWM Holdings Corporation Class A Common Stock,11
+CRSR,Corsair Gaming Inc. Common Stock,10
+CEO,CNOOC Limited Common Stock,10
+R,Ryder System Inc. Common Stock,10
+RSI,Rush Street Interactive Inc. Class A Common Stock,10
+DIS,Walt Disney Company (The) Common Stock,9
+L,Loews Corporation Common Stock,9
+AI,C3.ai Inc. Class A Common Stock,9
+UK,Ucommune International Ltd Ordinary Shares,9
+O,Realty Income Corporation Common Stock,8
+SAM,Boston Beer Company Inc. (The) Common Stock,8
+TLRY,Tilray Inc. Class 2 Common Stock,8
+ALL,Allstate Corporation (The) Common Stock,8
+JD,JD.com Inc. American Depositary Shares,8
+LAZR,Luminar Technologies Inc.  Class A Common Stock,8
+FB,Facebook Inc. Class A Common Stock,8
+V,Visa Inc.,8
+PINS,Pinterest Inc. Class A Common Stock,8
+W,Wayfair Inc. Class A Common Stock,7
+SPCE,Virgin Galactic Holdings Inc. Common Stock,7
+MT,Arcelor Mittal NY Registry Shares NEW,6
+J,Jacobs Engineering Group Inc. Common Stock,6
+DISCA,Discovery Inc. Series A Common Stock,6
+NVAX,Novavax Inc. Common Stock,6
+NOW,ServiceNow Inc. Common Stock,6
+GOEV,Canoo Inc. Class A Common Stock,6
+E,ENI S.p.A. Common Stock,6
+MU,Micron Technology Inc. Common Stock,6
+GM,General Motors Company Common Stock,6
+LMAO,LMF Acquisition Opportunities Inc.,6
+CLF,Cleveland-Cliffs Inc. Common Stock,6
+BA,Boeing Company (The) Common Stock,6
+FUBO,fuboTV Inc. Common Stock,5
+ENPH,Enphase Energy Inc. Common Stock,5
+FSR,Fisker Inc. Class A Common Stock,5
+GDP,Goodrich Petroleum Corporation Common Stock,5
+ET,Energy Transfer LP Common Units,5
+SNDL,Sundial Growers Inc. Common Shares,5
+IQ,iQIYI Inc. American Depositary Shares,5
+LULU,lululemon athletica inc. Common Stock,5
+UMC,United Microelectronics Corporation (NEW) Common Stock,5
+ARE,Alexandria Real Estate Equities Inc. Common Stock,5
+INO,Inovio Pharmaceuticals Inc. Common Stock,5
+OUT,OUTFRONT Media Inc. Common Stock,5
+UI,Ubiquiti Inc. Common Stock,5
+HYLN,Hyliion Holdings Corp. Class A Common Stock,4
+TAP,Molson Coors Beverage Company Class B Common Stock,4
+Y,Alleghany Corporation Common Stock,4
+SO,Southern Company (The) Common Stock,4
+OR,Osisko Gold Royalties Ltd Common Shares,4
+PS,Pluralsight Inc. Class A Common Stock,4
+GE,General Electric Company Common Stock,4
+NYC,New York City REIT Inc. Class A Common Stock,4
+ITT,ITT Inc. Common Stock,4
+GS,Goldman Sachs Group Inc. (The) Common Stock,4
+TME,Tencent Music Entertainment Group American Depositary Shares each representing two Class A Ordinary Shares,4
+AAL,American Airlines Group Inc. Common Stock,4
+BNGO,Bionano Genomics Inc. Common Stock,4
+AXP,American Express Company Common Stock,4
+AT,Atlantic Power Corporation Ordinary Shares (Canada),4
+CLNE,Clean Energy Fuels Corp. Common Stock,4
+CIA,Citizens Inc. Class A Common Stock ($1.00 Par),4
+BV,BrightView Holdings Inc. Common Stock,4
+CG,The Carlyle Group Inc. Common Stock,4
+FCEL,FuelCell Energy Inc. Common Stock,3
+GF,New Germany Fund Inc. (The) Common Stock,3
+LUV,Southwest Airlines Company Common Stock,3
+DM,Desktop Metal Inc. Class A Common Stock,3
+CMPS,COMPASS Pathways Plc American Depository Shares,3
+PDT,John Hancock Premium Dividend Fund,3
+ALB,Albemarle Corporation Common Stock,3
+PRPL,Purple Innovation Inc. Common Stock,3
+SNBR,Sleep Number Corporation Common Stock,3
+MA,Mastercard Incorporated Common Stock,3
+RS,Reliance Steel & Aluminum Co. Common Stock (DE),3
+GMED,Globus Medical Inc. Class A Common Stock,3
+BYND,Beyond Meat Inc. Common Stock,3
+DOW,Dow Inc. Common Stock,3
+GL,Globe Life Inc. Common Stock,3
+HUGE,FSD Pharma Inc. Class B Subordinate Voting Shares,3
+ABNB,Airbnb Inc. Class A Common Stock,3
+XL,XL Fleet Corp. Class A Common Stock,3
+CHWY,Chewy Inc. Class A Common Stock,3
+REAL,The RealReal Inc. Common Stock,3
+OSTK,Overstock.com Inc. Common Stock,3
+FSLY,Fastly Inc. Class A Common Stock,3
+NOM,Nuveen Missouri Quality Municipal Income Fund,3
+IP,International Paper Company Common Stock,3
+CCL,Carnival Corporation Common Stock,3
+CBD,Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share,3
+FOR,Forestar Group Inc Common Stock,3
+AR,Antero Resources Corporation Common Stock,3
+MRNA,Moderna Inc. Common Stock,3
+TDA,Telephone and Data Systems Inc. 5.875% Senior Notes due 2061,3
+MAN,ManpowerGroup Common Stock,2
+PENN,Penn National Gaming Inc. Common Stock,2
+LIFE,aTyr Pharma Inc. Common Stock,2
+CSL,Carlisle Companies Incorporated Common Stock,2
+KO,Coca-Cola Company (The) Common Stock,2
+POSH,Poshmark Inc. Class A Common Stock,2
+JNJ,Johnson & Johnson Common Stock,2
+TY,Tri Continental Corporation Common Stock,2
+CME,CME Group Inc. Class A Common Stock,2
+AMAT,Applied Materials Inc. Common Stock,2
+SPR,Spirit Aerosystems Holdings Inc. Common Stock,2
+BY,Byline Bancorp Inc. Common Stock,2
+MSTR,MicroStrategy Incorporated Common Stock Class A,2
+ANY,Sphere 3D Corp. Common Shares,2
+MUH,Blackrock MuniHoldings Fund II Inc. Common Stock,2
+NBA,New Beginnings Acquisition Corp. Common Stock,2
+NEE,NextEra Energy Inc. Common Stock,2
+NGL,NGL ENERGY PARTNERS LP Common Units representing Limited Partner Interests,2
+TACO,Del Taco Restaurants Inc. Common Stock,2
+CD,Chindata Group Holdings Limited American Depositary Shares,2
+SYPR,Sypris Solutions Inc. Common Stock,2
+SU,Suncor Energy  Inc. Common Stock,2
+STX,Seagate Technology PLC Ordinary Shares (Ireland),2
+OPEN,Opendoor Technologies Inc Common Stock,2
+JMIA,Jumia Technologies AG American Depositary Shares each representing two Ordinary Shares,2
+CVNA,Carvana Co. Class A Common Stock,2
+ATVI,Activision Blizzard Inc. Common Stock,2
+ED,Consolidated Edison Inc. Common Stock,2
+WMT,Walmart Inc. Common Stock,2
+GPRO,GoPro Inc. Class A Common Stock,2
+GOOG,Alphabet Inc. Class C Capital Stock,2
+GOOD,Gladstone Commercial Corporation Real Estate Investment Trust,2
+WPM,Wheaton Precious Metals Corp Common Shares (Canada),2
+BIDU,Baidu Inc. ADS,2
+BEST,BEST Inc. American Depositary Shares each representing one Class A Ordinary Share,2
 SB,Safe Bulkers Inc Common Stock ($0.001 par value),2
-TV,Grupo Televisa S.A. Common Stock,2
-AM,Antero Midstream Corporation Common Stock,2
-C,Citigroup Inc. Common Stock,2
-CC,Chemours Company (The) Common Stock,2
-CEO,CNOOC Limited Common Stock,2
+ABBV,AbbVie Inc. Common Stock,2
+EC,Ecopetrol S.A. American Depositary Shares,2
+FSD,First Trust High Income Long Short Fund Common Shares of Beneficial Interest,2
+RE,Everest Re Group Ltd. Common Stock,2
+SAVA,Cassava Sciences Inc. Common Stock,2
+ROIC,Retail Opportunity Investments Corp. Common Stock (MD),2
+XXII,22nd Century Group Inc. Common Stock,2
+FORD,Forward Industries Inc. Common Stock,2
+AB,AllianceBernstein Holding L.P.  Units,2
+ZM,Zoom Video Communications Inc. Class A Common Stock,2
+EDIT,Editas Medicine Inc. Common Stock,2
+FANG,Diamondback Energy Inc. Commmon Stock,2
+ZOM,Zomedica Corp. Common Shares,2
 EVER,EverQuote Inc. Class A Common Stock,2
+PSA,Public Storage Common Stock,2
+ONE,OneSmart International Education Group Limited ADS,2
+VC,Visteon Corporation Common Stock,2
+QS,QuantumScape Corporation Class A Common Stock,2
+ACB,Aurora Cannabis Inc. Common Shares,2
+HP,Helmerich & Payne Inc. Common Stock,2
+IBM,International Business Machines Corporation Common Stock,2
+DELL,Dell Technologies Inc. Class C Common Stock,2
+SHOP,Shopify Inc. Class A Subordinate Voting Shares,2
+DGX,Quest Diagnostics Incorporated Common Stock,2
+DAL,Delta Air Lines Inc. Common Stock,2
+SI,Silvergate Capital Corporation Class A Common Stock,2
+VIACA,ViacomCBS Inc. Class A Common Stock,2
+RAIL,FreightCar America Inc. Common Stock,2
+SRNE,Sorrento Therapeutics Inc.  Common Stock,2
+PYPL,PayPal Holdings Inc. Common Stock,2
+SPWR,SunPower Corporation Common Stock,1
+ARCT,Arcturus Therapeutics Holdings Inc. Common Stock,1
+SKX,Skechers U.S.A. Inc. Common Stock,1
+SJW,SJW Group Common Stock (DE),1
+SLB,Schlumberger N.V. Common Stock,1
+SENS,Senseonics Holdings Inc. Common Stock,1
+ATOS,Atossa Therapeutics Inc. Common Stock,1
+SAVE,Spirit Airlines Inc. Common Stock,1
+SHIP,Seanergy Maritime Holdings Corp Common Stock,1
+SNOW,Snowflake Inc. Class A Common Stock,1
+ASX,ASE Technology Holding Co. Ltd. American Depositary Shares (each representing Two Common Shares),1
+SDC,SmileDirectClub Inc. Class A Common Stock,1
+ASML,ASML Holding N.V. New York Registry Shares,1
+ARLO,Arlo Technologies Inc. Common Stock,1
+SPOT,Spotify Technology S.A. Ordinary Shares,1
+SE,Sea Limited American Depositary Shares each representing one Class A Ordinary Share,1
+TOT,Total SE,1
+SSD,Simpson Manufacturing Company Inc. Common Stock,1
+UPST,Upstart Holdings Inc. Common stock,1
+UTHR,United Therapeutics Corporation Common Stock,1
+ACCD,Accolade Inc. Common Stock,1
+VERY,Vericity Inc. Common Stock,1
+ACAD,ACADIA Pharmaceuticals Inc. Common Stock,1
+VRTX,Vertex Pharmaceuticals Incorporated Common Stock,1
+VTRS,Viatris Inc. Common Stock,1
+VUZI,Vuzix Corporation Common Stock,1
+WBS,Webster Financial Corporation Common Stock,1
+WELL,Welltower Inc. Common Stock,1
+WH,Wyndham Hotels & Resorts Inc. Common Stock,1
+WOW,WideOpenWest Inc. Common Stock,1
+WW,WW International Inc. Common Stock,1
+WWE,World Wrestling Entertainment Inc. Class A Common Stock,1
+WYNN,Wynn Resorts Limited Common stock,1
+XLNX,Xilinx Inc. Common Stock,1
+XPEV,XPeng Inc. American depositary shares each representing two Class A ordinary shares,1
+XRAY,DENTSPLY SIRONA Inc. Common Stock,1
+YY,JOYY Inc. American Depositary Shares,1
+TRUE,TrueCar Inc. Common Stock,1
+ADT,ADT Inc. Common Stock,1
+AE,Adams Resources & Energy Inc. Common Stock,1
+STAY,Extended Stay America Inc. Paired Shares,1
+AFC,Allied Capital Corporation Allied Capital Corporation 6.875% Notes due April 15 2047,1
+SWKS,Skyworks Solutions Inc. Common Stock,1
+APPS,Digital Turbine Inc. Common Stock,1
+AP,Ampco-Pittsburgh Corporation Common Stock,1
+TDE,Telephone and Data Systems Inc. 6.875% Senior Notes due 2059,1
+TEAM,Atlassian Corporation Plc Class A Ordinary Shares,1
+TELL,Tellurian Inc. Common Stock,1
+AMCI,AMCI Acquisition Corp. Class A Common Stock,1
+TLS,Telos Corporation Common Stock,1
+TLSA,Tiziana Life Sciences plc American Depository Share,1
 RTX,Raytheon Technologies Corporation Common Stock,1
-PLUG,Plug Power Inc. Common Stock,1
-SO,Southern Company (The) Common Stock,1
-NOW,ServiceNow Inc. Common Stock,1
-PRPL,Purple Innovation Inc. Common Stock,1
-OPEN,Opendoor Technologies Inc Common Stock,1
-ONE,OneSmart International Education Group Limited ADS,1
-TA,TravelCenters of America Inc. Common Stock,1
-TSM,Taiwan Semiconductor Manufacturing Company Ltd.,1
-RKT,Rocket Companies Inc. Class A Common Stock,1
-PTON,Peloton Interactive Inc. Class A Common Stock,1
-UI,Ubiquiti Inc. Common Stock,1
-NVDA,NVIDIA Corporation Common Stock,1
-AAL,American Airlines Group Inc. Common Stock,1
-NOC,Northrop Grumman Corporation Common Stock,1
-MARA,Marathon Patent Group Inc. Common Stock,1
-AB,AllianceBernstein Holding L.P.  Units,1
+TS,Tenaris S.A. American Depositary Shares,1
+TSC,TriState Capital Holdings Inc. Common Stock,1
+AHCO,AdaptHealth Corp. Class A Common Stock,1
+TTCF,Tattooed Chef Inc Class A Common Stock,1
 AGI,Alamos Gold Inc. Class A Common Shares,1
-AI,C3.ai Inc. Class A Common Stock,1
-ATH,Athene Holding Ltd. Class A Common Shares,1
-B,Barnes Group Inc. Common Stock,1
-BA,Boeing Company (The) Common Stock,1
-CBD,Companhia Brasileira de Distribuicao American Depsitary Shares; each representing one Common Share,1
-D,Dominion Energy Inc. Common Stock,1
-DIS,Walt Disney Company (The) Common Stock,1
-DKNG,DraftKings Inc. Class A Common Stock,1
-EOD,Wells Fargo Global Dividend Opportunity Fund,1
-EV,Eaton Vance Corporation Common Stock,1
-F,Ford Motor Company Common Stock,1
-GDP,Goodrich Petroleum Corporation Common Stock,1
-GE,General Electric Company Common Stock,1
-GM,General Motors Company Common Stock,1
-HUGE,FSD Pharma Inc. Class B Subordinate Voting Shares,1
-IMO,Imperial Oil Limited Common Stock,1
-IT,Gartner Inc. Common Stock,1
+AGC,Altimeter Growth Corp. Class A Ordinary Shares,1
+UBER,Uber Technologies Inc. Common Stock,1
+UBS,UBS Group AG Registered Ordinary Shares,1
+AG,First Majestic Silver Corp. Ordinary Shares (Canada),1
+RUN,Sunrun Inc. Common Stock,1
+ETN,Eaton Corporation PLC Ordinary Shares,1
+BC,Brunswick Corporation Common Stock,1
+CUZ,Cousins Properties Incorporated Common Stock,1
+HRTX,Heron Therapeutics Inc. Common Stock,1
+HYFM,Hydrofarm Holdings Group Inc. Common Stock,1
+IBKR,Interactive Brokers Group Inc. Class A Common Stock,1
+ICE,Intercontinental Exchange Inc. Common Stock,1
+ID,PARTS iD Inc. Class A Common Stock,1
+DG,Dollar General Corporation Common Stock,1
+DCF,BNY Mellon Alcentra Global Credit Income 2024 Target Term Fund Inc. Common Stock,1
+CVS,CVS Health Corporation Common Stock,1
+CVAC,CureVac N.V. Ordinary Shares,1
+JAN,JanOne Inc. Common Stock (NV),1
+HR,Healthcare Realty Trust Incorporated Common Stock,1
+CTRM,Castor Maritime Inc. Common Shares,1
 JOE,St. Joe Company (The) Common Stock,1
-KO,Coca-Cola Company (The) Common Stock,1
-L,Loews Corporation Common Stock,1
+JPM,JP Morgan Chase & Co. Common Stock,1
+CSCO,Cisco Systems Inc. Common Stock,1
+LC,LendingClub Corporation Common Stock,1
+CS,Credit Suisse Group American Depositary Shares,1
+COUP,Coupa Software Incorporated Common Stock,1
+LMND,Lemonade Inc. Common Stock,1
+LPL,LG Display Co Ltd AMERICAN DEPOSITORY SHARES,1
+HRL,Hormel Foods Corporation Common Stock,1
+HOG,Harley-Davidson Inc. Common Stock,1
+ROKU,Roku Inc. Class A Common Stock,1
+EBIX,Ebix Inc. Common Stock,1
+EXPI,eXp World Holdings Inc. Common Stock,1
+ES,Eversource Energy (D/B/A) Common Stock,1
+FCF,First Commonwealth Financial Corporation Common Stock,1
+FCX,Freeport-McMoRan Inc. Common Stock,1
+FL,Foot Locker Inc.,1
+FR,First Industrial Realty Trust Inc. Common Stock,1
+FREE,Whole Earth Brands Inc. Class A Common Stock,1
+FREQ,Frequency Therapeutics Inc. Common Stock,1
+EBON,Ebang International Holdings Inc. Class A Ordinary Shares,1
+DTW,DTE Energy Company 2017 Series E 5.25% Junior Subordinated Debentures due 2077,1
+HLI,Houlihan Lokey Inc. Class A Common Stock,1
+DOOO,BRP Inc. (Recreational Products) Common Subordinate Voting Shares,1
+GNRC,Generac Holdlings Inc. Common Stock,1
+GNUS,Genius Brands International Inc. Common Stock,1
+DNMR,Danimer Scientific Inc. Common Stock,1
+GOLD,Barrick Gold Corporation Common Stock (BC),1
+GSK,GlaxoSmithKline PLC Common Stock,1
+HAS,Hasbro Inc. Common Stock,1
+HD,Home Depot Inc. (The) Common Stock,1
+HL,Hecla Mining Company Common Stock,1
+COTY,Coty Inc. Class A Common Stock,1
+COO,The Cooper Companies Inc. Common Stock,1
+MAT,Mattel Inc. Common Stock,1
+BSAC,Banco Santander - Chile ADS,1
+PDD,Pinduoduo Inc. American Depositary Shares,1
+ETH,Ethan Allen Interiors Inc. Common Stock,1
+PFE,Pfizer Inc. Common Stock,1
+PG,Procter & Gamble Company (The) Common Stock,1
+PHM,PulteGroup Inc. Common Stock,1
+BX,The Blackstone Group Inc. Class A Common Stock,1
+PIPP,Pine Island Acquisition Corp. Class A Common Stock,1
+BWA,BorgWarner Inc. Common Stock,1
+BUD,Anheuser-Busch Inbev SA Sponsored ADR (Belgium),1
+PSTH,Pershing Square Tontine Holdings Ltd. Class A Common Stock,1
+MCD,McDonald's Corporation Common Stock,1
+BP,BP p.l.c. Common Stock,1
+BOOM,DMC Global Inc. Common Stock,1
+QDEL,Quidel Corporation Common Stock,1
+RC,Ready Capital Corproation Common Stock,1
+REED,Reeds Inc. Common Stock,1
+RIDE,Lordstown Motors Corp. Class A Common Stock,1
+RMO,Romeo Power Inc. Class A Common Stock,1
+RNG,RingCentral Inc. Class A Common Stock,1
+ROAD,Construction Partners Inc. Class A Common Stock,1
+PD,PagerDuty Inc. Common Stock,1
+PAR,PAR Technology Corporation Common Stock,1
+OSB,Norbord Inc. Common Stock,1
+ORCL,Oracle Corporation Common Stock,1
+MDB,MongoDB Inc. Class A Common Stock,1
+MIND,MIND Technology Inc. Common Stock (DE),1
+MO,Altria Group Inc.,1
+MOD,Modine Manufacturing Company Common Stock,1
+MP,MP Materials Corp. Common Stock,1
+CNK,Cinemark Holdings Inc Cinemark Holdings Inc. Common Stock,1
+MSM,MSC Industrial Direct Company Inc. Common Stock,1
+CMG,Chipotle Mexican Grill Inc. Common Stock,1
+NOC,Northrop Grumman Corporation Common Stock,1
+CEN,Center Coast Brookfield MLP & Energy Infrastructure Fund,1
+NS,Nustar Energy L.P.  Common Units,1
+CAT,Caterpillar Inc. Common Stock,1
+CARE,Carter Bankshares Inc. Common Stock,1
+CAN,Canaan Inc. American Depositary Shares,1
+OEG,Orbital Energy Group Inc. Common Stock,1
+OGI,Organigram Holdings Inc. Common Shares,1
+OKTA,Okta Inc. Class A Common Stock,1
+OM,Outset Medical Inc. Common Stock,1
+ONTX,Onconova Therapeutics Inc. Common Stock,1
 LI,Li Auto Inc. American Depositary Shares,1
-JG,Aurora Mobile Limited American Depositary Shares,1
